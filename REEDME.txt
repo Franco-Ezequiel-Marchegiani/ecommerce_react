@@ -1,0 +1,7 @@
+You will have to install this to make it work correctly:
+
+npm install --save firebase
+
+npm install react-bootstrap bootstrap
+
+npm install formik --save
